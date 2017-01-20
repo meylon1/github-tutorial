@@ -1,7 +1,7 @@
 # github-tutorial
 
 
-#### Forking freeCodeCamp
+#### Forking github-tutorial
 
 1. Go to the top level github-tutorial repository: <https://github.com/alemneh/github-tutorial>
 2. Click the "Fork" Button in the upper right hand corner of the interface.
