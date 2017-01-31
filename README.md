@@ -72,8 +72,6 @@ Then commit your changes:
 ```shell
 $ git commit -m "Leave a comment about the change"
 ```
-
-
 and then push your branch to GitHub:
 
 ```shell
